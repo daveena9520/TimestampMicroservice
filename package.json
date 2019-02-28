@@ -1,0 +1,14 @@
+{
+    "name": "TimestampMicroservice",
+    "version": "1.0.0",
+    "author": "John Gordon",
+    "description": "A project required by the FreeCodeCamp Api & Microservices Section",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.12.4",
+        "body-parser": "^1.15.2"
+    }
+}
